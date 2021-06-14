@@ -24,7 +24,7 @@ Other files are
 ## Project Execution Step
 
 - After analyzing the data we simply follow the life cycle of the Data Science project :
-(![image](uploads/803c02ec4f2366822bd9fa57dfc9a471/image.png)
+![image](uploads/803c02ec4f2366822bd9fa57dfc9a471/image.png)
 
 - data collection
 - data cleaning
